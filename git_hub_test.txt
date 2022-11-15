@@ -1,2 +1,3 @@
 Men git hubga ma'lumot yuklamoqchiman.
 Men githubga ma'lumotlarni yuklab bo'ldim.
+Git hubga saqlagan ma'lumotlarimizni o'zgarishlarini kuzatyapmiz.
